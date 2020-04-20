@@ -1,7 +1,8 @@
 {
     "name": "Puzzle Palooza",
     "dependencies": {
-        "device": "*"
+        "device": "*",
+        "Puzzle Palooza": "github:kliggett101/puzzlepaloozaescape#master"
     },
     "description": "",
     "files": [
